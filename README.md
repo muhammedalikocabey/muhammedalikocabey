@@ -23,8 +23,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedalikocabey&show_icons=true" alt="muhammedalikocabey" /></p>
 
 <p align="center">
-<a href="https://twitter.com/https://twitter.com/muhammedkcb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/muhammedkcb" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammedalikocabey/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/muhammedalikocabey/" height="30" width="30" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/muhammedalikocabey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/muhammedalikocabey" height="30" width="30" /></a>
+<a href="https://twitter.com/muhammedkcb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/muhammedkcb" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/muhammedalikocabey/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/muhammedalikocabey/" height="30" width="30" /></a>
+<a href="https://kaggle.com/muhammedalikocabey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/muhammedalikocabey" height="30" width="30" /></a>
 <a href="https://medium.com/@muhammedalikocabey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@muhammedalikocabey" height="30" width="30" /></a>
 </p>
