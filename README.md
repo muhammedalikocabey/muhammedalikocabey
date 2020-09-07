@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammed Ali</h1>
 <h3 align="center">Self learner, self research, one's own boss, but currently looking for jobs and internship in ML and NLP fields.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedalikocabey" alt="muhammedalikocabey" /> </p>
 
 - 🔭 I’m currently working on [Natural Language Processing](https://github.com/muhammedalikocabey/Self-Taught/tree/master/Natural%20Language%20Processing)
 
