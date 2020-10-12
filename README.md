@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Natural Language Processing](https://github.com/muhammedalikocabey/Self-Taught/tree/master/Natural%20Language%20Processing)
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning and Natural Language Processing**
+- 🌱 I’m currently learning **Deep Learning and Natural Language Processing** and **Java**
 
 - 👯 I’m looking to collaborate on [ScoreUpp](https://www.scoreupp.com/)
 
