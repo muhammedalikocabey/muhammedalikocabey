@@ -14,15 +14,13 @@
 
 - 👨‍💻 All of my projects are available in [my github repositories](https://github.com/muhammedalikocabey/), except the ones that I aim to gain commercially.
 
-- 📝 - I write articles on my [English](https://www.muhammedalikocabey.com/blog-en/) and [Turkish](https://www.muhammedalikocabey.com/blog-tr/) blog whenever I find time.
+- 📝 I write articles on my [English](https://www.muhammedalikocabey.com/blog-en/) and [Turkish](https://www.muhammedalikocabey.com/blog-tr/) blog whenever I find time.
 
 - 💬 Ask me about **Python**, **Selenium Web Scraping**, **Python GUI** and **Data Science**
 
 - 📫 How to reach me **me@muhammedalikocabey.com**
 
-- 📄 Know about my experiences [hh](hh)
-
-- ⚡ - If you interest about **REST Services** you can check my last learning project coded with **Java** and **Spring Framework** about finance parity data.
+- ⚡ If you interest about **REST Services** you can check my last learning project coded with **Java** and **Spring Framework** about finance parity data.
 
 
 <h3 align="left">Connect with me:</h3>
