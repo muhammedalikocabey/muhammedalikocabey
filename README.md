@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Ali</h1>
-<h3 align="center">Self learner, Self Researcher, Self motivated. Currently he is doing internship and he is using Java and Spring Framework and he is looking for different Internship or Junior Software Developer role after this internship.</h3>
+<h3 align="center">Self learner, Self Researcher, Self motivated.</br> Currently he is doing internship and he is using Java and Spring Framework and he is looking for different Internship or Junior Software Developer role after this internship.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedalikocabey&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedalikocabey" /> </p>
 
