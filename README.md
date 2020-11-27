@@ -4,8 +4,7 @@
 
 - 🔭 I’m currently working on [Natural Language Processing](https://github.com/muhammedalikocabey/Self-Taught/tree/master/Natural%20Language%20Processing)
 
-- 🌱 I’m currently learning **Java** and 
--    I am currently learning **Java** and **Spring Framework** especially **Spring Data** and **Spring REST**. And I am also learning and practicing about Design patterns**.
+- 🌱 I am currently learning **Java** and **Spring Framework** especially **Spring Data** and **Spring REST**. And I am also learning and practicing about Design patterns**.
 
 - 👨‍💻 All of my projects are available in [my github repositories](https://github.com/muhammedalikocabey/), except the ones that I aim to gain commercially.
 
