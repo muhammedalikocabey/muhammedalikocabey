@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **me@muhammedalikocabey.com**
 
-- ⚡ If you interest about **REST Services** you can check my last learning project coded with **Java** and **Spring Framework** about finance parity data.
+- ⚡ If you interest about **REST Services** you can check my last learning [project](https://github.com/muhammedalikocabey/Spring-Boot-Rest-Service) coded with **Java** and **Spring Framework** about finance parity data.
 
 
 <h3 align="left">Connect with me:</h3>
