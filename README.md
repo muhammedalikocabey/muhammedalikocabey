@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/muhammedkcb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="muhammedkcb" height="30" width="40" /></a>
+<a href="https://twitter.com/muhammedkcb" target="blank"><img align="center" src="https://p.kindpng.com/picc/s/30-300712_transparent-twitter-bird-clipart-white-twitter-logo-no.png" alt="muhammedkcb" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammedalikocabey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muhammedalikocabey" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13457877" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13457877" height="30" width="40" /></a>
 <a href="https://kaggle.com/muhammedalikocabey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="muhammedalikocabey" height="30" width="40" /></a>
