@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Ali</h1>
-<h3 align="center">Self learner, Self Researcher, Self motivated.</br></br> He has completed his internship where he is currently using Java Spring Boot.</br></br> And he's looking for a place to do his compulsory internship.</br></br> Externally, he is a founding partner in his core field, Natural Language Processing startup.
+<h3 align="center">Self learner, Self Researcher, Self motivated.</br></br> He has completed his internship where he is currently using Java Spring Boot.</br> And he's looking for a place to do his compulsory internship.</br></br> Externally, he is a founding partner in his core field, Natural Language Processing startup.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedalikocabey&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedalikocabey" /> </p>
