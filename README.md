@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **me@muhammedalikocabey.com**
 
-- ⚡ If you interest about **REST Services** you can check my last learning [project](https://github.com/muhammedalikocabey/Spring-Boot-Rest-Service) coded with **Java** and **Spring Framework** about finance parity data.
+- ⚡ If you are interested in developing **Android App** with **Java**, you can check out my latest project **[Butler - Advanced Reminder App](https://github.com/muhammedalikocabey/Butler-_-Advanced-Reminder-Android-Application)**.
 
 
 <h3 align="left">Connect with me:</h3>
