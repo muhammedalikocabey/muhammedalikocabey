@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Ali</h1>
-<h3 align="center">Self learner, Self Researcher, Self motivated.</br></br> I completed my first internship using Java Spring Boot. <br>
-And I'm looking for a different place to do a long term internship.
-</h3>
+<h3 align="center">Self learner, Self Researcher, Self motivated.</br></br> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedalikocabey&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedalikocabey" /> </p>
 
@@ -10,9 +8,9 @@ And I'm looking for a different place to do a long term internship.
 <p align="left"> <a href="https://twitter.com/muhammedkcb" target="blank"><img src="https://img.shields.io/twitter/follow/muhammedkcb?logo=twitter&style=for-the-badge" alt="muhammedkcb" /></a> </p>
 
 
-- 🔭 I’m currently working on [Natural Language Processing Graduate Project](https://github.com/muhammedalikocabey/Self-Taught/tree/master/Natural%20Language%20Processing)
+<!-- 🔭 I’m currently working on [Natural Language Processing Graduate Project](https://github.com/muhammedalikocabey/Self-Taught/tree/master/Natural%20Language%20Processing) -->
 
-- 🌱 I am currently learning **Android/Java** and also I am developing an advanced reminder and note app.
+- 🌱 I am currently learning [Docker](https://www.udemy.com/course/adan-zye-docker/) and Containerization.
 
 - 👨‍💻 All of my projects are available in [my github repositories](https://github.com/muhammedalikocabey/), except the ones that I aim to gain commercially.
 
