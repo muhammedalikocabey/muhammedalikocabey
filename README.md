@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Ali</h1>
-<h3 align="center">Self learner, Self Researcher, Self motivated.</br></br> </h3>
+<h3 align="center">Self Learner, Self Researcher, Self Motivated.</br></br> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedalikocabey&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedalikocabey" /> </p>
 
