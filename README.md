@@ -16,7 +16,7 @@
 
 - 📝 I write articles on my [English](https://www.muhammedalikocabey.com/blog-en/) and [Turkish](https://www.muhammedalikocabey.com/blog-tr/) blog whenever I find time.
 
-- 💬 Ask me about **Python**, **Selenium Web Scraping**, **Python GUI** and **Data Science**
+- 💬 Ask me about **Python**, **Selenium Web Scraping**, **Python GUI**, **Spring Boot** and **Data Science**
 
 - 📫 How to reach me **me@muhammedalikocabey.com**
 
