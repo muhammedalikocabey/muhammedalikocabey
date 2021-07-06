@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedalikocabey" alt="muhammedalikocabey" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/muhammedkcb" target="blank"><img src="https://img.shields.io/twitter/follow/muhammedkcb?logo=twitter&style=for-the-badge" alt="muhammedkcb" /></a> </p>
+
 
 
 <!-- 🔭 I’m currently working on [Natural Language Processing Graduate Project](https://github.com/muhammedalikocabey/Self-Taught/tree/master/Natural%20Language%20Processing) -->
