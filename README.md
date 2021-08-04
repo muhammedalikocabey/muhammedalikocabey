@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammed Ali</h1>
+
 <h3 align="center">Self Learner, Self Researcher, Self Motivated.</br></br> </h3>
+
+<h3 align="center">I am actively working as a Junior Software Engineer with the title of Support Specialist at Comodo. </br></br> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedalikocabey&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedalikocabey" /> </p>
 
@@ -10,7 +13,7 @@
 
 <!-- 🔭 I’m currently working on [Natural Language Processing Graduate Project](https://github.com/muhammedalikocabey/Self-Taught/tree/master/Natural%20Language%20Processing) -->
 
-- 🌱 I am currently learning [Docker](https://www.udemy.com/course/adan-zye-docker/) and Containerization.
+- 🌱 I am currently learning **[Docker](https://www.udemy.com/course/adan-zye-docker/)**, **Containerization** and **Container Orchestration**.
 
 - 👨‍💻 All of my projects are available in [my github repositories](https://github.com/muhammedalikocabey/), except the ones that I aim to gain commercially.
 
