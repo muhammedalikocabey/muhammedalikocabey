@@ -13,7 +13,7 @@
 
 <!-- 🔭 I’m currently working on [Natural Language Processing Graduate Project](https://github.com/muhammedalikocabey/Self-Taught/tree/master/Natural%20Language%20Processing) -->
 
-- 🌱 I am currently learning **[Docker](https://www.udemy.com/course/adan-zye-docker/)**, **Containerization** and **Container Orchestration**.
+- 🌱 I am currently learning **Kotlin**.
 
 - 👨‍💻 All of my projects are available in [my github repositories](https://github.com/muhammedalikocabey/), except the ones that I aim to gain commercially.
 
