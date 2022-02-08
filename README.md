@@ -13,9 +13,9 @@
 
 <!-- 🔭 I’m currently working on [Natural Language Processing Graduate Project](https://github.com/muhammedalikocabey/Self-Taught/tree/master/Natural%20Language%20Processing) -->
 
-- 🌱 I am currently learning [**Android App Development**](https://github.com/muhammedalikocabey/Self-Taught/tree/master/Android_App_Dev%20-%20Java:Kotlin) and [**IOS App Development**](https://github.com/muhammedalikocabey/Self-Taught/tree/master/IOS_App_Dev%20-%20Swift) .
+- 🌱 I am currently learning [**Android App Development**](https://github.com/muhammedalikocabey/Self-Taught/tree/master/Android) and [**IOS App Development**](https://github.com/muhammedalikocabey/Self-Taught/tree/master/IOS/) .
 
-- 👨‍💻 All of my projects are available in [my github repositories](https://github.com/muhammedalikocabey/), except the ones that I aim to gain commercially.
+- 👨‍💻 All of my projects are available in [my github repositories](https://github.com/muhammedalikocabey?tab=repositories), except the ones that I aim to gain commercially.
 
 - 📝 I write articles on my [English](https://www.muhammedalikocabey.com/blog-en/) and [Turkish](https://www.muhammedalikocabey.com/blog-tr/) blog whenever I find time.
 
