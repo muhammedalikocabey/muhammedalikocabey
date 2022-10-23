@@ -2,7 +2,7 @@
 
 <h3 align="center">Self Learner, Self Researcher, Self Motivated.</br></br> </h3>
 
-<h3 align="center">I am actively working as a Junior Android Developer at Altamira Digital Works. </br></br> </h3>
+<h3 align="center">I am actively working as a Android Developer at Altamira Digital Works. </br></br> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedalikocabey&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedalikocabey" /> </p>
 
