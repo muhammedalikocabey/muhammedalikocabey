@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects —aside from those that I hope to profit from commercially— are accessible on my [my github repositories](https://github.com/muhammedalikocabey?tab=repositories).
 
-- 📝 Whenever I have time, I make posts for my blogs in both [English](https://www.muhammedalikocabey.com/blog-en/) and [Turkish](https://www.muhammedalikocabey.com/blog-tr/.
+- 📝 Whenever I have time, I make posts for my blogs in both [English](https://www.muhammedalikocabey.com/blog-en/) and [Turkish](https://www.muhammedalikocabey.com/blog-tr/.)
 
 - 💬 Regarding Android Development, Android SDK, Kotlin, Java, MVVM, Clean Architecture, AndroidX Architecture, Python, Python/Selenium Web Scraping, Spring Boot, and Data Science, I'm pleased to assist you.
 
