@@ -9,13 +9,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedalikocabey" alt="muhammedalikocabey" /></a> </p>
 
 
-
-
-<!-- 🔭 I’m currently working on [Natural Language Processing Graduate Project](https://github.com/muhammedalikocabey/Self-Taught/tree/master/Natural%20Language%20Processing) -->
-
 - 🌱 I'm studying RxJava right now. .
 
-- 👨‍💻 All of my projects—aside from those that I hope to profit from commercially—are accessible on my [my github repositories](https://github.com/muhammedalikocabey?tab=repositories).
+- 👨‍💻 All of my projects —aside from those that I hope to profit from commercially— are accessible on my [my github repositories](https://github.com/muhammedalikocabey?tab=repositories).
 
 - 📝 Whenever I have time, I make posts for my blogs in both [English](https://www.muhammedalikocabey.com/blog-en/) and [Turkish](https://www.muhammedalikocabey.com/blog-tr/.
 
