@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammed Ali</h1>
 
-<h3 align="center">Self Learner, Self Researcher, Self Motivated.</br></br> </h3>
+<h3 align="center">I am a self-motivated, self-learner, and researcher.</br></br> </h3>
 
-<h3 align="center">I am actively working as a Android Developer at Altamira Digital Works. </br></br> </h3>
+<h3 align="center">I'm currently employed by Altamira Digital Works as an Android Developer. </br></br> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedalikocabey&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedalikocabey" /> </p>
 
@@ -13,20 +13,18 @@
 
 <!-- 🔭 I’m currently working on [Natural Language Processing Graduate Project](https://github.com/muhammedalikocabey/Self-Taught/tree/master/Natural%20Language%20Processing) -->
 
-- 🌱 I am currently learning [**Android App Development**](https://github.com/muhammedalikocabey/Self-Taught/tree/master/Android) and [**IOS App Development**](https://github.com/muhammedalikocabey/Self-Taught/tree/master/IOS/) .
+- 🌱 I'm studying RxJava right now. .
 
-- 👨‍💻 All of my projects are available in [my github repositories](https://github.com/muhammedalikocabey?tab=repositories), except the ones that I aim to gain commercially.
+- 👨‍💻 All of my projects—aside from those that I hope to profit from commercially—are accessible on my [my github repositories](https://github.com/muhammedalikocabey?tab=repositories).
 
-- 📝 I write articles on my [English](https://www.muhammedalikocabey.com/blog-en/) and [Turkish](https://www.muhammedalikocabey.com/blog-tr/) blog whenever I find time.
+- 📝 Whenever I have time, I make posts for my blogs in both [English](https://www.muhammedalikocabey.com/blog-en/) and [Turkish](https://www.muhammedalikocabey.com/blog-tr/.
 
-- 💬 Ask me about **Python**, **Selenium Web Scraping**, **Python GUI**, **Spring Boot** and **Data Science**
+- 💬 Regarding Android Development, Android SDK, Kotlin, Java, MVVM, Clean Architecture, AndroidX Architecture, Python, Python/Selenium Web Scraping, Spring Boot, and Data Science, I'm pleased to assist you.
 
-- 📫 How to reach me **me@muhammedalikocabey.com**
-
-- ⚡ If you are interested in developing **Android App** with **Java**, you can check out my latest project **[Reminders - Advanced Reminder, Note and Task App](https://github.com/muhammedalikocabey/Reminders-Android-Application)**
+- 📫 Email me at **me@muhammedalikocabey.com** to get in touch.
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">To get in touch</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammedalikocabey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muhammedalikocabey" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13457877" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13457877" height="30" width="40" /></a>
