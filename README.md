@@ -2,7 +2,7 @@
 
 <h3 align="center">I am a self-motivated, self-learner, and researcher.</br></br> </h3>
 
-<h3 align="center">I'm currently employed by Altamira Digital Works as an Android Developer. </br></br> </h3>
+<h3 align="center">I’m currently employed by Akbank via Veripark as an Android Developer. </br></br> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedalikocabey&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedalikocabey" /> </p>
 
