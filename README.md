@@ -17,7 +17,7 @@
 
 - 💬 Regarding **Android Development**, **Android SDK**, **Kotlin**, **Java**, **MVVM**, **Clean Architecture**, **AndroidX Architecture**, **Python**, **Python/Selenium Web Scraping**, **Spring Boot**, and **Data Science**. I'm pleased to assist you
 
-- 📫 Email me at **me@muhammedalikocabey.com** to get in touch.
+- 📫 Email me at **muhammedkocabey98@hotmail.com** to get in touch.
 
 
 <h3 align="left">To get in touch</h3>
