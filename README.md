@@ -9,7 +9,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedalikocabey" alt="muhammedalikocabey" /></a> </p>
 
 
-- 🌱 I'm studying RxJava right now
 
 - 👨‍💻 All of my projects —aside from those that I hope to profit from commercially— are accessible on my [my github repositories](https://github.com/muhammedalikocabey?tab=repositories)
 
