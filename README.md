@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Self-Motivated Researcher & Passionate Coder | Lifelong Learner
 All of my projects —aside from those that I hope to profit from commercially— are accessible on my my github repositories<br><br>📝 Whenever I have time, I make posts for my blogs in both English and Turkish<br><br>💬 Regarding Android Development, Android SDK, Kotlin, Java, MVVM, Clean Architecture, AndroidX Architecture, Python, Python/Selenium Web Scraping, Spring Boot, and Data Science. I'm pleased to assist you<br><br>📫 Email me at me@muhammedalikocabey.com to get in touch.
 
 
