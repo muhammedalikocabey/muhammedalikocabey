@@ -1,7 +1,11 @@
-# 💎 Muhammed Ali Kocabey | Android Developer
+Hi, I'm Muhammed Ali Kocabey 👋  
+An Android Developer passionate about building secure, scalable, and modular applications using Kotlin and modern Android technologies.  
 
-> 🚀 **Building secure, scalable, and modular Android apps with Kotlin, Jetpack Compose, and Clean Architecture.**  
-> 🎯 Passionate about open-source development, clean code principles, and cross-cutting architecture.
+🔹 Focused on Clean Architecture, Secure Coding, and Developer Experience.  
+🔹 Creator of Aspectify: An open-source Modular AOP Framework for Android & Kotlin.  
+🔹 Publishing Blogs & Podcasts in English and Turkish about mobile development and architecture.
+
+🚀 Open to remote & relocation opportunities worldwide.
 
 ---
 
@@ -11,7 +15,6 @@
 
 - 🧩 Specialized in **Kotlin, Jetpack Compose, Clean Architecture, and Modular Development**.
 - 🛡️ Focused on **secure coding**, **test-driven development**, and **scalable architecture**.
-- 🌍 Open to **remote** or **relocation** opportunities (Europe, USA, Dubai).
 - ✨ Creator of [Aspectify](https://github.com/muhammedalikocabey/aspectify) – a modular open-source AOP Framework for Android & Kotlin.
 - 📝 Publishing blogs and podcasts in **both English and Turkish** about Android Development.
 
@@ -60,9 +63,13 @@
 ## 🚀 Featured Projects
 
 - ✨ [Aspectify](https://github.com/muhammedalikocabey/aspectify): Modular AOP Framework for Android & Kotlin.
-- 🏦 [Akbank Mobile](https://play.google.com/store/apps/details?id=com.akbank.android.apps.akbank_direkt&hl=en) - Modular Fintech Flows Refactoring & Secure Architecture.  
+  → A lightweight open-source framework to handle cross-cutting concerns with annotations.
+- 🏦 [Akbank Mobile](https://play.google.com/store/apps/details?id=com.akbank.android.apps.akbank_direkt&hl=en) - Modular Fintech Flows Refactoring & Secure Architecture.
+  → Refactored critical investment, NFC, and limit flows under clean modular architecture.
 - 💡 Smart-Life & Loyalty Apps (Emaar, Florya, 42 Maslak, [ALiving](https://play.google.com/store/apps/details?id=com.altamira.acarkent&hl=tr), [Zorlu World](https://play.google.com/store/apps/details?id=com.ehousedigital.zorluworld&hl=tr), [TAV Passport](https://play.google.com/store/apps/details?id=com.altamira.tavpassport&hl=tr)  [Büyükyali](https://play.google.com/store/apps/details?id=com.poisoft.buyukyali&hl=tr)) - Fintech & Loyalty Solutions.
+  → Developed smart life and loyalty apps with MVVM & RESTful API integration.
 - 🛡️ Comodo/Xcitium Mobile Security ([Android](https://play.google.com/store/apps/details?id=com.comodo.cisme.antivirus&hl=en&pli=1) & [iOS](https://apps.apple.com/us/app/comodo-mobile-security/id1448853386?l=en)) - Antivirus and threat detection systems.
+  → Built cross-platform antivirus & threat detection app, focused on security and performance.
 
 ---
 
@@ -80,10 +87,9 @@
 
 ---
 
-## 🎤 Podcast & Blog
+🎙️ Listen to [Aspectify Podcast]([your-podcast-link](https://open.spotify.com/show/7waAQAWmr2WIQNTlTJkkos?si=fad65d7a413248bd))  
+📝 Read my [Medium Blog Posts](https://medium.com/@muhammedalikocabey)
 
-- **Medium Blog**: [Visit my Blog](https://medium.com/@muhammedalikocabey)
-- **Podcast**: [Listen to Aspectify Podcast](https://open.spotify.com/show/7waAQAWmr2WIQNTlTJkkos?si=fad65d7a413248bd)
 
 *(Perfect for reading, commuting, or working out!)*
 
