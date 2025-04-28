@@ -60,8 +60,8 @@
 ## 🚀 Featured Projects
 
 - ✨ [Aspectify](https://github.com/muhammedalikocabey/aspectify): Modular AOP Framework for Android & Kotlin.
-- 💡 Smart-Life & Loyalty Apps (Emaar, Florya, 42 Maslak, Büyükyali) - Fintech & Loyalty Solutions.
-- 🛡️ Comodo/Xcitium Mobile Security (Android & iOS) - Antivirus and threat detection systems.
+- 💡 Smart-Life & Loyalty Apps (Emaar, Florya, 42 Maslak, [ALiving](https://play.google.com/store/apps/details?id=com.altamira.acarkent&hl=tr), [Zorlu World](https://play.google.com/store/apps/details?id=com.ehousedigital.zorluworld&hl=tr), [TAV Passport](https://play.google.com/store/apps/details?id=com.altamira.tavpassport&hl=tr)  [Büyükyali](https://play.google.com/store/apps/details?id=com.poisoft.buyukyali&hl=tr)) - Fintech & Loyalty Solutions.
+- 🛡️ Comodo/Xcitium Mobile Security ([Android](https://play.google.com/store/apps/details?id=com.comodo.cisme.antivirus&hl=en&pli=1) & [iOS](https://apps.apple.com/us/app/comodo-mobile-security/id1448853386?l=en)) - Antivirus and threat detection systems.
 
 ---
 
