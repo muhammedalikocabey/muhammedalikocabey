@@ -14,6 +14,9 @@ An Android Developer with **4+ years** of experience in fintech, enterprise, and
 - 🛡️ Focused on **secure coding**, **scalable architecture**, and **developer experience**.
 - ✨ Creator of [Aspectify](https://github.com/muhammedalikocabey/aspectify) — A modular, open-source AOP framework for Android & Kotlin.
 - 📝 Publishing blogs and podcasts in **both English and Turkish** about Android, Kotlin, and Architecture.
+- 🎧 I also host [Shaping the Future of Android — Scalable Architectures, Kotlin Mastery, Real-World Tactics](https://open.spotify.com/show/7waAQAWmr2WIQNTlTJkkos?si=fad65d7a413248bd),  
+  an AI-narrated podcast where I convert my technical blog posts into spoken insights.  
+  — covering Kotlin, Clean Architecture, Jetpack Compose, and real-world Android practices.
 - 🌍 Open to **remote** and **relocation** opportunities in Europe, USA, or Dubai.
 
 ---
