@@ -95,3 +95,6 @@ An Android Developer with **4+ years** of experience in fintech, enterprise, and
 > 💬 If you find my work interesting, feel free to connect ✨ or simply leave a ⭐ on any repo you like!  
 > Thanks for visiting!
 
+
+![PSD I Certified](https://img.shields.io/badge/Professional%20Scrum%20Developer%20I-Scrum.org-blue?style=for-the-badge&logo=scrum&logoColor=white)
+
