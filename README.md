@@ -21,6 +21,23 @@ An Android Developer with **4+ years** of experience in fintech, enterprise, and
 
 ---
 
+
+## 🎯 Career Highlights
+
+- ✅ Reduced crash rate by 15% at Akbank Mobile by refactoring critical fintech flows with modular architecture.
+- 🧱 Built reusable declarative UI components used across multiple financial modules.
+- 📈 Boosted UI responsiveness and state stability using Coroutines + Flow across high-traffic flows.
+- 🧪 Led secure coding improvements with static analysis tools for financial-grade compliance.
+
+---
+
+## 🔭 Current Focus
+
+- 🧠 Evolving [Aspectify](https://github.com/muhammedalikocabey/aspectify) with annotation-based and compiler-plugin powered features.
+- 🧪 Writing deep-dive blog posts on Compose architecture and performance pitfalls.
+- 🌍 Applying to **remote** and **relocation**-friendly positions in Europe, USA, or Dubai.
+
+
 ## 🌐 Connect with Me
 
 [![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=About.me&logoColor=white)](https://muhammedalikocabey.com)  
@@ -88,7 +105,14 @@ An Android Developer with **4+ years** of experience in fintech, enterprise, and
 ---
 
 🎙️ Listen to [Aspectify Podcast](https://open.spotify.com/show/7waAQAWmr2WIQNTlTJkkos?si=fad65d7a413248bd)  
-📝 Read my [Medium Blog Posts](https://medium.com/@muhammedalikocabey)
+
+## 📝 Recent Blog Posts
+
+- [✨ Aspectify: A Modern AOP Framework for Android and Kotlin World]([https://medium.com/...](https://muhammedalikocabey.medium.com/aspectify-a-modern-aop-framework-for-android-and-kotlin-world-37375ce7a443))
+- [Modern Android Development from RxJava to Kotlin Coroutines](https://muhammedalikocabey.medium.com/rxjavadan-kotlin-coroutines-a-ge%C3%A7i%C5%9F-modern-android-geli%C5%9Ftirme-i%C3%A7in-kapsaml%C4%B1-bir-rehber-203a4de6c6b0)
+- [From onBackPressed to OnBackPressedDispatcher: A New Era in Back Button Management on Android](https://muhammedalikocabey.medium.com/onbackpressedden-onbackpresseddispatcher-a-android-de-geri-tu%C5%9Fu-y%C3%B6netiminde-yeni-bir-d%C3%B6nem-7f0522932a33)
+
+> 👉 You can find more on my [Medium profile](https://medium.com/@muhammedalikocabey)
 
 ---
 
@@ -97,4 +121,3 @@ An Android Developer with **4+ years** of experience in fintech, enterprise, and
 
 
 ![PSD I Certified](https://img.shields.io/badge/Professional%20Scrum%20Developer%20I-Scrum.org-blue?style=for-the-badge&logo=scrum&logoColor=white)
-
