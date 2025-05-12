@@ -106,13 +106,16 @@ JUnit, Mockk, Test Base Utilities, Lifecycle-aware Collectors, Static Analysis T
 
 ## 🎧 Podcast & 📘 Blog
 
-🎧 [Shaping the Future of Android](https://open.spotify.com/show/7waAQAWmr2WIQNTlTJkkos)  
-📘 Recent:
+🎧 **Shaping the Future of Android**  
+A short-format podcast where I talk about real-world topics in Android development — from secure architecture to modular design patterns.  
+[→ Listen on Spotify](https://open.spotify.com/show/7waAQAWmr2WIQNTlTJkkos)
 
-- [SIM Blokajını NFC & Liveness ile Kaldırmak](https://medium.com/@muhammedalikocabey)
-- [Kurumsal Android Projelerinde RxJava'dan Coroutines'a Geçiş](https://medium.com/@muhammedalikocabey)
+📘 **Latest on Medium**
+
+- 🔄 [Aspectify: A Modern AOP Framework for Android and Kotlin World]([https://medium.com/@muhammedalikocabey](https://muhammedalikocabey.medium.com/aspectify-a-modern-aop-framework-for-android-and-kotlin-world-37375ce7a443))  
 
 ---
+
 
 ## 📚 Certifications & Achievements
 
