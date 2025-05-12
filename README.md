@@ -112,7 +112,7 @@ A short-format podcast where I talk about real-world topics in Android developme
 
 📘 **Latest on Medium**
 
-- 🔄 [Aspectify: A Modern AOP Framework for Android and Kotlin World]([https://medium.com/@muhammedalikocabey](https://muhammedalikocabey.medium.com/aspectify-a-modern-aop-framework-for-android-and-kotlin-world-37375ce7a443)  
+- 🔄 [Aspectify: A Modern AOP Framework for Android and Kotlin World]([https://medium.com/@muhammedalikocabey](https://muhammedalikocabey.medium.com/aspectify-a-modern-aop-framework-for-android-and-kotlin-world-37375ce7a443)
 
 ---
 
