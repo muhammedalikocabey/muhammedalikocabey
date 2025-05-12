@@ -1,33 +1,35 @@
 # 💎 Muhammed Ali Kocabey | Android Developer – Kotlin, Architecture, Secure Mobile Systems
 
-🚀 Building secure, scalable, and modular Android apps with Kotlin, Jetpack Compose, and Clean Architecture.  
-🎯 Passionate about clean code, open-source development, and cross-cutting architecture.
+🚀 I design Android apps using Kotlin, Compose, and modular patterns — with a strong focus on long-term maintainability and security.  
+🎯 I enjoy writing clean, reusable code that simplifies both development and collaboration.
 
 ---
 
 ## 🔥 About Me
 
 Hi, I'm **Muhammed Ali Kocabey** 👋  
-An Android Developer with **4+ years** of experience in fintech, enterprise, and AI-driven projects.
+Android developer with 4+ years of hands-on experience, mostly in fintech and enterprise-scale apps. I specialize in Kotlin, secure architecture, and testable modular code.
 
 - 🧩 Specialized in **Kotlin, Clean Architecture, Modular Systems, Jetpack Compose** (in OSS projects).
 - 🔑 Focused on **secure coding**, **scalable architecture**, and **lifecycle-aware test utilities**.
-- ✨ Creator of [Aspectify](https://github.com/muhammedalikocabey/aspectify) — A modular, open-source AOP framework for Android & Kotlin.
-- 📘 Publishing blogs in **both English and Turkish** about Android, Kotlin, and Architecture.
-- 🎧 Host of [Shaping the Future of Android](https://open.spotify.com/show/7waAQAWmr2WIQNTlTJkkos), an AI-narrated podcast turning blog posts into spoken insights.
-- 🌍 Open to **remote** and **relocation** opportunities in Europe, USA, or Dubai.
+- ✨ Creator of [Aspectify](https://github.com/muhammedalikocabey/aspectify), a small library I built to handle cross-cutting concerns like retries and logging — with minimal boilerplate.
+- 📘 I write about Android architecture and Kotlin development in both Turkish and English on [Medium](https://medium.com/@muhammedalikocabey).
+- 🎧 Host of [Shaping the Future of Android](https://open.spotify.com/show/7waAQAWmr2WIQNTlTJkkos), I turn selected blog posts into short podcast episodes — sharing real-world tips and reflections from my work in Android development.
+- 🌍 Open to **remote** roles or **relocation**, especially in Europe, the US, or Dubai.
 
-> ⚠️ In my enterprise role at Akbank, I use a **custom declarative UI framework** (not Jetpack Compose).
+
+
+> ⚠️ In my enterprise role at Akbank, I use a **custom declarative UI framework** (not Jetpack Compose), tailored to internal design systems and CI/CD requirements.
 
 ---
 
 ## 🌟 Career Highlights
 
-- ✅ Refactored secure NFC flows into reusable, parametric modules adopted across multiple teams.
-- 🛠️ Delivered SIM block removal, Login Assistance, and Holiday Access flows with encrypted session handling and secure architecture.
+- ✅ Refactored and reused the NFC verification flow in 4+ feature modules, improving testability and SDK integration time.
+- 🛠️ Delivered flows like SIM unblocking and admin unlock with encrypted sessions and secure architecture.
 - 📆 Created reusable UI components (e.g., CalendarSelectable, DoubleOptionView) from scratch.
-- 🔄 Led PoC for RxJava to Coroutines transition later adopted by architectural teams.
-- ⚖️ Developed test base utilities and lifecycle-safe coroutine collectors for robust test coverage.
+- 🔄 Led the migration PoC from RxJava to Coroutines, later standardized across multiple modules.
+- ⚖️ Introduced lifecycle-safe coroutine utilities used in 15+ test cases.
 - ⚒️ Took initiative in deprecated API replacements (e.g., `onBackPressed`) with modern, high-order solutions.
 - ⚡ Integrated time-critical SDKs (e.g., NFC & Liveness) under production deadlines.
 
@@ -37,7 +39,7 @@ An Android Developer with **4+ years** of experience in fintech, enterprise, and
 
 - 🔄 Exploring **Kotlin Symbol Processing (KSP)** and Compiler Plugin tooling.
 - 🛠️ Enhancing legacy enterprise codebases with secure, modular Kotlin architecture.
-- 🔍 Writing blog posts and utilities around **lifecycle-aware coroutine testing** and UI performance.
+- 🔍 Working on better coroutine testing tools and writing about real-world performance issues in UI layers.
 
 ---
 
@@ -45,7 +47,7 @@ An Android Developer with **4+ years** of experience in fintech, enterprise, and
 
 [![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=About.me&logoColor=white)](https://muhammedalikocabey.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammedalikocabey)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@muhammedalikocabey)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@muhammedalikocabey)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammedalikocabey)
 
 ---
@@ -69,8 +71,11 @@ JUnit, Mockk, Test Base Utilities, Lifecycle-aware Collectors, Static Analysis T
 ## 🚀 Featured Projects
 
 - ✨ [Aspectify](https://github.com/muhammedalikocabey/aspectify): A modern, modular AOP Framework for Android & Kotlin  
-  → Handles logging, retries, timeouts, and cross-cutting concerns with annotations.
+  → Started as an experiment in modular AOP, now helps me abstract retries/logging in large-scale apps.
 
+- 🔐 [SecureCheck](https://github.com/muhammedalikocabey/securecheck):  
+  → A showcase security app with 25+ checks like root, SSL pinning, Frida/Xposed, SafetyNet and more — all wrapped in a modular Clean Architecture setup.
+  
 - 🏦 Akbank Mobile (Enterprise, Private):  
   → Delivered modular fintech flows (Investment, SIM Block, Corporate Admin, 129 Unlock, Holiday Access) with MVVM, encrypted session management, and test utilities.
 
@@ -82,11 +87,14 @@ JUnit, Mockk, Test Base Utilities, Lifecycle-aware Collectors, Static Analysis T
 
 ---
 
-## 📊 GitHub Stats
+<details>
+  <summary>📊 GitHub Stats</summary>
 
-![](https://github-readme-stats.vercel.app/api?username=muhammedalikocabey&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=muhammedalikocabey&theme=dracula&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedalikocabey&theme=dracula&hide_border=false&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api?username=muhammedalikocabey&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)  
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=muhammedalikocabey&theme=dracula&hide_border=false)  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedalikocabey&theme=dracula&hide_border=false&layout=compact)
+
+</details>
 
 ---
 
@@ -106,6 +114,12 @@ JUnit, Mockk, Test Base Utilities, Lifecycle-aware Collectors, Static Analysis T
 
 ---
 
-> 💬 If you find my work valuable, feel free to connect or drop a ⭐ on any repo you like. Thanks for stopping by!
+## 📚 Certifications & Achievements
 
-![PSD I Certified](https://img.shields.io/badge/Professional%20Scrum%20Developer%20I-Scrum.org-blue?style=for-the-badge&logo=scrum&logoColor=white)
+- ![PSD I](https://img.shields.io/badge/Professional%20Scrum%20Developer%20I-blue?style=flat&logo=scrum) – Scrum.org (2025)
+- 🎓 Secure Coding Training – Akbank Internal Workshop (2023)
+- 🏅 Deep Learning Specialization – deeplearning.ai, Stanford (2020)
+
+---
+
+> 💬 If you find my work valuable, feel free to connect or drop a ⭐ on any repo you like. Thanks for stopping by!
