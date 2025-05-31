@@ -88,7 +88,7 @@ JUnit, Mockk, Test Base Utilities, Lifecycle-aware Collectors, Static Analysis T
 ---
 
 <details>
-  <summary>📊 GitHub Stats</summary>
+  <summary>GitHub Stats</summary>
 
   ![](https://github-readme-stats.vercel.app/api?username=muhammedalikocabey&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)  
   ![](https://github-readme-streak-stats.herokuapp.com/?user=muhammedalikocabey&theme=dracula&hide_border=false)  
