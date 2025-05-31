@@ -7,7 +7,7 @@ I enjoy writing clean, reusable code that simplifies both development and collab
 
 ## About Me
 
-Hi, I'm **Muhammed Ali Kocabey** 👋  
+Hi, I'm **Muhammed Ali Kocabey** 
 Android developer with 4+ years of hands-on experience, mostly in fintech and enterprise-scale apps. I specialize in Kotlin, secure architecture, and testable modular code.
 
 - Specialized in **Kotlin, Clean Architecture, Modular Systems, Jetpack Compose** (in OSS projects).
